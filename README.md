@@ -40,8 +40,8 @@
 ## 📈 Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ilija-mihajlovic&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilija-mihajlovic&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JureRelja&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JureRelja&hide_border=true&theme=radical" />
 </p>
 
 ---   
@@ -51,7 +51,7 @@
 </div>
 
 <p  align="center">
-<img src="https://raw.githubusercontent.com/ilija-mihajlovic/ilija-mihajlovic/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/JureRelja/JureRelja/output/github-contribution-grid-snake.svg" />
   
 <div  align="center">
 <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />

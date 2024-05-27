@@ -3,10 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture (FESB) in Split, Croatia.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🎓 &nbsp;I'm currently studying Computer Science at Faculty of electrical engineering and computing (FER).
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can contact me via email at jurereljanovic99@gmail.com! I'll try to respond as soon as I can.\
 
 ---
